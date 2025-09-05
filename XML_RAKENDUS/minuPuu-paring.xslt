@@ -9,6 +9,7 @@
 		<style>
 			table, th, td {
 			border:1px solid black;
+			background-color: #FCDBFF;
 			}
 		</style>
 		<table border="1">
