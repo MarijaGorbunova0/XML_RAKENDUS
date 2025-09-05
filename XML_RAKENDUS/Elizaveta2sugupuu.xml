@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene aasta="1926">
+	<nimi>Elizaveta II</nimi>
+	<lapsed>
+		<inimene aasta="1948">
+			<nimi>Charles</nimi>
+			<lapsed>
+				<inimene aasta="1982">
+					<nimi>ffff</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene aasta="1950">
+			<nimi>Anne</nimi>
+		</inimene>
+		<inimene aasta="1960">
+			<nimi>Asrew</nimi>
+		</inimene>
+		<inimene aasta="1964">
+			<nimi>Edward</nimi>
+		</inimene>
+	
+	</lapsed>
+</inimene>

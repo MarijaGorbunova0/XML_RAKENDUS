@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugulane aasta="1933" elukoht="Eesti/Venemaa">
+	<nimi>baba zina</nimi>
+	<lapsed>
+		<sugulane aasta="1960" elukoht="Eesti">
+			<nimi>ded Vasilij bivshev</nimi>
+			<lapsed>
+				<sugulane aasta="1982" elukoht="Eesti">
+					<nimi>Petya bivshev</nimi>
+				</sugulane>
+				<sugulane aasta="1981" elukoht="Eesti">
+					<nimi>Olga Gorbunova</nimi>
+					<lapsed>
+						<sugulane aasta="2005" elukoht="Eesti">
+							<nimi>Leonid Gorbunov</nimi>
+						</sugulane>
+						<sugulane aasta="2007" elukoht="Eesti">
+							<nimi>Marija Gorbunova</nimi>
+						</sugulane>
+					</lapsed>
+				</sugulane>
+			</lapsed>
+		</sugulane>
+	</lapsed>
+</sugulane>
